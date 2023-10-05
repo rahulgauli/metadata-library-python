@@ -7,3 +7,5 @@ datameta.egg-info/requires.txt
 datameta.egg-info/top_level.txt
 libname/__init__.py
 libname/datameta.py
+libname/schema/__init__.py
+libname/schema/dataschema.py
