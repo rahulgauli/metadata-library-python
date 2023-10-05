@@ -1,0 +1,9 @@
+LICENCE
+setup.py
+datameta.egg-info/PKG-INFO
+datameta.egg-info/SOURCES.txt
+datameta.egg-info/dependency_links.txt
+datameta.egg-info/requires.txt
+datameta.egg-info/top_level.txt
+libname/__init__.py
+libname/datameta.py
